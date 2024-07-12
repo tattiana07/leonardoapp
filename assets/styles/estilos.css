@@ -7,7 +7,7 @@
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
-    padding: 25%;
+    padding: 10%;
 }
 
 .botonChat{
@@ -27,4 +27,10 @@
     border: 1px solid #e7e7e7;
     border-radius: 10px;
     z-index: 1;
+}
+
+.textoChat{
+    position: adsolute;
+    bottom: 0;
+    width: 90%;
 }
